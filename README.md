@@ -28,7 +28,7 @@
   <p>
     Sou <strong>Desenvolvedor Fullstack</strong> e <strong>Engenheiro de Hardware</strong>.<br>
     Minha especialidade é conectar o mundo físico (C/C++, Firmware) com o digital (React, Node.js).<br>
-    [cite_start]Tenho experiência em <strong>Eletromobilidade (OCPP)</strong> [cite: 253, 262][cite_start], <strong>AOSP</strong> [cite: 254] [cite_start]e <strong>Automação Industrial</strong>[cite: 5, 247].
+    Tenho experiência em <strong>Eletromobilidade (OCPP)</strong>, <strong>AOSP</strong> e <strong>Automação Industrial</strong>.
   </p>
 </div>
 
@@ -71,5 +71,5 @@
     <img src="https://readme-typing-svg.demolab.com?font=Rem&duration=4000&pause=1000&color=90CAF9&center=true&width=435&separator=%3C&lines=Obrigado+pela+visita!%3CConecte-se+comigo.%3CVolte+sempre!" alt="Typing SVG" />
   </a>
   <br>
-  <img alt="Footer Banner" width="100%" src="https://github.com/WillGomes123/WillGomes123/blob/main/Imagens/footerpag.jpg?raw=true">
+  
 </div>
